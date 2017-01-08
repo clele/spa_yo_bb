@@ -21,7 +21,7 @@ Emanuele Rabino testing SPA
 * live tested on browserstack
 
 ### production version
-[http://http://localhost:4003/](http://localhost:4003/)
+[https://spa-yo-bb.herokuapp.com](https://spa-yo-bb.herokuapp.com)
 
 #### notes
 - slider images are not from psd, i'm currently without photoshop

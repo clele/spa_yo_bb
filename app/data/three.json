@@ -1,0 +1,18 @@
+{
+	"item": {
+		"name": "CAMICIA MANICHE LUNGHE",
+		"details": "Lorem ipsum dolor sit amet, mea ei stet pericula sapientem, ceteros principes eu mei. Dissentiunt instructior in nam. Ei mea.",
+		"composition": "Composizione: 100% Seta",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 84 - 60 - 90",
+			"Altezza modella: 179cm"
+		],
+		"images": [
+			"http://localhost:4003/images/42/42266674ce_12n_f.jpg",
+			"http://localhost:4003/images/42/42266674ce_12n_r.jpg",
+			"http://localhost:4003/images/42/42266674ce_12n_e.jpg",
+			"http://localhost:4003/images/42/42266674ce_12n_d.jpg"
+		]
+	}
+}

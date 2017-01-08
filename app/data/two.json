@@ -1,0 +1,18 @@
+{
+	"item": {
+		"name": "BIKINI",
+		"details": "Lorem ipsum dolor sit amet, mundi semper at mea. Nullam integre civibus mea ex, eam eu sale accusata. Mea cu.",
+		"composition": "Composizione: 79% Poliammide, 21% Elastam",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 86 - 60 - 90",
+			"Altezza modella: 178cm"
+		],
+		"images": [
+			"http://localhost:4003/images/47/47141306nv_12n_f.jpg",
+			"http://localhost:4003/images/47/47141306nv_12n_r.jpg",
+			"http://localhost:4003/images/47/47141306nv_12n_e.jpg",
+			"http://localhost:4003/images/47/47141306nv_12n_d.jpg"
+		]
+	}
+}

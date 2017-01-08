@@ -1,0 +1,18 @@
+{
+	"item": {
+		"name": "JEANS",
+		"details": "Lorem ipsum dolor sit amet, in vide erat sed, eu est amet oratio persequeris. At omnes nusquam nominavi sit, te.",
+		"composition": "98% Cotone, 2% Elastam",
+		"modelDetails": [
+			"La modella indossa una taglia 40",
+			"Misure: 86 - 60 - 90",
+			"Altezza modella: 178cm"
+		],
+		"images": [
+			"http://localhost:4003/images/38/38297439sd_12n_f.jpg",
+			"http://localhost:4003/images/38/38297439sd_12n_r.jpg",
+			"http://localhost:4003/images/38/38297439sd_12n_e.jpg",
+			"http://localhost:4003/images/38/38297439sd_12n_d.jpg"
+		]
+	}
+}

@@ -25,4 +25,3 @@ Emanuele Rabino testing SPA
 
 #### notes
 - slider images are not from psd, i'm currently without photoshop
-- the page poorly resemble the creative, i'm not a designer and i'm very bad with CSS

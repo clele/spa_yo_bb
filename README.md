@@ -20,7 +20,7 @@ Emanuele Rabino testing SPA
 * responsive grid (12 cols) with Bootstrap3. Some issues with IE6 rendering the form
 * live tested on browserstack
 
-### production version
+### demo
 [https://spa-yo-bb.herokuapp.com](https://spa-yo-bb.herokuapp.com)
 
 #### notes
